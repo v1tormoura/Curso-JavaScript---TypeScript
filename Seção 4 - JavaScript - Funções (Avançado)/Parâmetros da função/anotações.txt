@@ -1,0 +1,9 @@
+Function exprestion -> e quando eu crio uma váriavel para uma função.
+
+hast operation -> o parâmetro resto precisa ser o último parâmetro da função.
+
+quando eu mudo a função para "arroy function" eu não tenho mais os "arguments".
+
+arroy function -> não precisa por "function" para criar a função.
+
+hast operation -> funciona em qualquer tipo de função "arroy function, function".

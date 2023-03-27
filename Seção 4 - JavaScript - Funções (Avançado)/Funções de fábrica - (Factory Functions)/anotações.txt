@@ -1,0 +1,3 @@
+Factory Functions -> são funções que retorna objetos.
+
+this -> sempre vai se referir a pessoa que estou executando

@@ -1,0 +1,2 @@
+Temos funções que retorna ou não valor, isso depende do contexto
+que estamos utilizando.

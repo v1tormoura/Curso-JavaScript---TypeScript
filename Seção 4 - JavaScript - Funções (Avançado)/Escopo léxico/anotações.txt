@@ -1,0 +1,2 @@
+Dentro da função que estou criando, eu posso acessar as váriaveis
+que estão fora dela, ate mesmo as funções que são vizinhas dela.

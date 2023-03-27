@@ -1,0 +1,6 @@
+Funções de callback -> e executada quando uma ação ocorre quando
+uma função finaliza executamos essa função.
+
+
+//função para retornar um número aleatório
+const num = Math.random() * (max - min) + min;
